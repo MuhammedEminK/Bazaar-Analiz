@@ -1,0 +1,564 @@
+[
+    [{"product_name": "Armut","birim": "Kilogram","price": 7.5},
+        {
+            "product_name": "Armut (Deveci)",
+            "birim": "Kilogram",
+            "price": 18.5
+        }, {
+            "product_name": "Armut (Santamaria)",
+            "birim": "Kilogram",
+            "price": 19.0
+        }, {
+            "product_name": "Avakado",
+            "birim": "Adet",
+            "price": 14.0
+        }, {
+            "product_name": "Ayva",
+            "birim": "Kilogram",
+            "price": 12.5
+        }, {
+            "product_name": "Çilek II.",
+            "birim": "Kilogram",
+            "price": 12.5
+        }, {
+            "product_name": "Çilek(I.)",
+            "birim": "Kilogram",
+            "price": 32.5
+        }, {
+            "product_name": "Elma (Amasya)",
+            "birim": "Kilogram",
+            "price": 16.0
+        }, {
+            "product_name": "Elma (Bodur)",
+            "birim": "Kilogram",
+            "price": 11.5
+        }, {
+            "product_name": "Elma (Golden)",
+            "birim": "Kilogram",
+            "price": 16.0
+        }, {
+            "product_name": "Elma (Gransimit)",
+            "birim": "Kilogram",
+            "price": 24.0
+        }, {
+            "product_name": "Elma (Starkin)",
+            "birim": "Kilogram",
+            "price": 16.5
+        }, {
+            "product_name": "Elma(fuji)",
+            "birim": "Kilogram",
+            "price": 20.0
+        }, {
+            "product_name": "Elma(GoldenII.)",
+            "birim": "Kilogram",
+            "price": 8.5
+        }, {
+            "product_name": "Elma(gransimit)II.",
+            "birim": "Kilogram",
+            "price": 12.5
+        }, {
+            "product_name": "Elma(starkin)II.",
+            "birim": "Kilogram",
+            "price": 8.5
+        }, {
+            "product_name": "Erik (Anjelik)",
+            "birim": "Kilogram",
+            "price": 23.5
+        }, {
+            "product_name": "Greyfurt",
+            "birim": "Kilogram",
+            "price": 11.5
+        }, {
+            "product_name": "Hurma",
+            "birim": "Kilogram",
+            "price": 17.0
+        }, {
+            "product_name": "Karpuz (1.Kalite)",
+            "birim": "Kilogram",
+            "price": 16.0
+        }, {
+            "product_name": "Kavun",
+            "birim": "Kilogram",
+            "price": 19.0
+        }, {
+            "product_name": "Kavun (Çıkma)",
+            "birim": "Kilogram",
+            "price": 7.5
+        }, {
+            "product_name": "Kavun (Kırkağaç)",
+            "birim": "Kilogram",
+            "price": 6.5
+        }, {
+            "product_name": "Kestane",
+            "birim": "Kilogram",
+            "price": 67.5
+        }, {
+            "product_name": "Kivi (Yerli)",
+            "birim": "Kilogram",
+            "price": 20.0
+        }, {
+            "product_name": "Limon",
+            "birim": "Kilogram",
+            "price": 12.0
+        }, {
+            "product_name": "Limon (Çıkma)",
+            "birim": "Sandık",
+            "price": 5.0
+        }, {
+            "product_name": "Limon (Enter)",
+            "birim": "Kilogram",
+            "price": 11.0
+        }, {
+            "product_name": "Limon (Lamas)",
+            "birim": "Kilogram",
+            "price": 12.5
+        }, {
+            "product_name": "Limon (Mayer)",
+            "birim": "Kilogram",
+            "price": 9.0
+        }, {
+            "product_name": "Mandalina",
+            "birim": "Kilogram",
+            "price": 10.0
+        }, {
+            "product_name": "Mandalina (İzmir)",
+            "birim": "Kilogram",
+            "price": 16.0
+        }, {
+            "product_name": "Mandalina (Satsuma)",
+            "birim": "Kilogram",
+            "price": 10.0
+        }, {
+            "product_name": "Muşmula",
+            "birim": "Kilogram",
+            "price": 11.5
+        }, {
+            "product_name": "Muz (Yerli)",
+            "birim": "Kilogram",
+            "price": 15.0
+        }, {
+            "product_name": "Muz(Yerli II.)",
+            "birim": "Kilogram",
+            "price": 10.0
+        }, {
+            "product_name": "Nar",
+            "birim": "Kilogram",
+            "price": 14.0
+        }, {
+            "product_name": "Pitahaya (Ejder Meyvesi)",
+            "birim": "Kilogram",
+            "price": 35.0
+        }, {
+            "product_name": "Portakal",
+            "birim": "Kilogram",
+            "price": 7.0
+        }, {
+            "product_name": "Portakal (Sıkmalık)",
+            "birim": "Kilogram",
+            "price": 10.5
+        }, {
+            "product_name": "Portakal(lüx)",
+            "birim": "Kilogram",
+            "price": 13.5
+        }, {
+            "product_name": "Üzüm",
+            "birim": "Kilogram",
+            "price": 12.5
+        }, {
+            "product_name": "Üzüm (Çekirdeksiz)",
+            "birim": "Kilogram",
+            "price": 22.5
+        }, {
+            "product_name": "Üzüm(Siyah)",
+            "birim": "Kilogram",
+            "price": 27.5
+        }
+    ],
+    
+    [{"product_name": "Akdeniz Baharatları","birim": "Kutu","price": 200.0
+    }, {
+        "product_name": "Akdeniz Yeşilliği",
+        "birim": "Kutu",
+        "price": 200.0
+    }, {
+        "product_name": "Barbunya",
+        "birim": "Kilogram",
+        "price": 20.0
+    }, {
+        "product_name": "Biber (Capia)",
+        "birim": "Kilogram",
+        "price": 30.0
+    }, {
+        "product_name": "Biber (Capya) Tarla",
+        "birim": "Kilogram",
+        "price": 13.5
+    }, {
+        "product_name": "Biber (Çarli)",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Biber (Çarli)İkinci",
+        "birim": "Kilogram",
+        "price": 9.0
+    }, {
+        "product_name": "Biber (Dolma)",
+        "birim": "Kilogram",
+        "price": 17.5
+    }, {
+        "product_name": "Biber (Dolma)İkinci",
+        "birim": "Kilogram",
+        "price": 10.5
+    }, {
+        "product_name": "Biber (Köy)",
+        "birim": "Kilogram",
+        "price": 17.5
+    }, {
+        "product_name": "Biber (Renkli)",
+        "birim": "Kilogram",
+        "price": 37.5
+    }, {
+        "product_name": "Biber (Sivri)",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Biber (Sivri)İkinci",
+        "birim": "Kilogram",
+        "price": 9.0
+    }, {
+        "product_name": "Biber Köy II.",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Biber(Sivri Kıl)",
+        "birim": "Kilogram",
+        "price": 30.0
+    }, {
+        "product_name": "Brokoli",
+        "birim": "Kilogram",
+        "price": 10.0
+    }, {
+        "product_name": "Dereotu",
+        "birim": "Demet",
+        "price": 2.5
+    }, {
+        "product_name": "Dereotu II.",
+        "birim": "Demet",
+        "price": 1.5
+    }, {
+        "product_name": "Domates",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Domates ( Beef)",
+        "birim": "Kilogram",
+        "price": 23.5
+    }, {
+        "product_name": "Domates (Çeri)",
+        "birim": "Kilogram",
+        "price": 37.5
+    }, {
+        "product_name": "Domates (İkinci kalite)",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Domates (kokteyl)",
+        "birim": "Kilogram",
+        "price": 25.0
+    }, {
+        "product_name": "Domates (Lüks)",
+        "birim": "Kilogram",
+        "price": 23.5
+    }, {
+        "product_name": "Domates (Pembe)",
+        "birim": "Kilogram",
+        "price": 27.5
+    }, {
+        "product_name": "Domates (Salkım)",
+        "birim": "Kilogram",
+        "price": 23.5
+    }, {
+        "product_name": "Enginar",
+        "birim": "Adet",
+        "price": 9.0
+    }, {
+        "product_name": "Fasülye (Çalı)",
+        "birim": "Kilogram",
+        "price": 22.5
+    }, {
+        "product_name": "Fasülye (Şeker)",
+        "birim": "Kilogram",
+        "price": 25.0
+    }, {
+        "product_name": "Göbek Salata",
+        "birim": "Adet",
+        "price": 10.0
+    }, {
+        "product_name": "Göbek Salata (2.Kalite)",
+        "birim": "Adet",
+        "price": 6.0
+    }, {
+        "product_name": "Havuç (Beypazarı)",
+        "birim": "Kilogram",
+        "price": 5.0
+    }, {
+        "product_name": "Havuç (Beypazarı)İri",
+        "birim": "Kilogram",
+        "price": 7.5
+    }, {
+        "product_name": "Havuç (İkinci)",
+        "birim": "Kilogram",
+        "price": 2.5
+    }, {
+        "product_name": "Ispanak",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Ispanak II.",
+        "birim": "Kilogram",
+        "price": 4.0
+    }, {
+        "product_name": "Kabak (Bal)",
+        "birim": "Kilogram",
+        "price": 10.5
+    }, {
+        "product_name": "Kabak (Sakız)",
+        "birim": "Kilogram",
+        "price": 14.0
+    }, {
+        "product_name": "Kabak Sakız(ikinci)",
+        "birim": "Kilogram",
+        "price": 4.5
+    }, {
+        "product_name": "Karnabahar",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Kereviz",
+        "birim": "Kilogram",
+        "price": 8.0
+    }, {
+        "product_name": "Kıvırcık",
+        "birim": "Adet",
+        "price": 7.0
+    }, {
+        "product_name": "Kıvırcık (2.Kalite)",
+        "birim": "Adet",
+        "price": 3.5
+    }, {
+        "product_name": "Lahana (Beyaz)",
+        "birim": "Kilogram",
+        "price": 4.5
+    }, {
+        "product_name": "Lahana (Brüksel)",
+        "birim": "Kilogram",
+        "price": 30.0
+    }, {
+        "product_name": "Lahana (Kara)",
+        "birim": "Kilogram",
+        "price": 7.0
+    }, {
+        "product_name": "Lahana (Kırmızı)",
+        "birim": "Kilogram",
+        "price": 7.5
+    }, {
+        "product_name": "Mantar",
+        "birim": "Kilogram",
+        "price": 30.0
+    }, {
+        "product_name": "Mantar(İstiridye)",
+        "birim": "Kilogram",
+        "price": 45.0
+    }, {
+        "product_name": "Marul",
+        "birim": "Adet",
+        "price": 9.0
+    }, {
+        "product_name": "Marul II.",
+        "birim": "Kilogram",
+        "price": 5.5
+    }, {
+        "product_name": "Maydonoz",
+        "birim": "Demet",
+        "price": 2.75
+    }, {
+        "product_name": "Maydonoz II.",
+        "birim": "Demet",
+        "price": 1.75
+    }, {
+        "product_name": "Mısır",
+        "birim": "Adet",
+        "price": 5.0
+    }, {
+        "product_name": "Nane (Tekli)",
+        "birim": "Demet",
+        "price": 2.75
+    }, {
+        "product_name": "Nane II.",
+        "birim": "Demet",
+        "price": 1.5
+    }, {
+        "product_name": "Pancar",
+        "birim": "Kilogram",
+        "price": 6.0
+    }, {
+        "product_name": "Patates",
+        "birim": "Kilogram",
+        "price": 10.0
+    }, {
+        "product_name": "Patates (2.kalite)",
+        "birim": "Kilogram",
+        "price": 7.0
+    }, {
+        "product_name": "Patates (Dev)",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Patates (Taze)",
+        "birim": "Kilogram",
+        "price": 14.0
+    }, {
+        "product_name": "Patlıcan (İkinci)",
+        "birim": "Kilogram",
+        "price": 7.5
+    }, {
+        "product_name": "Patlıcan Bostan",
+        "birim": "Kilogram",
+        "price": 13.0
+    }, {
+        "product_name": "Patlıcan I.",
+        "birim": "Kilogram",
+        "price": 16.0
+    }, {
+        "product_name": "Pazı",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Pırasa",
+        "birim": "Kilogram",
+        "price": 8.5
+    }, {
+        "product_name": "Roka",
+        "birim": "Demet",
+        "price": 3.5
+    }, {
+        "product_name": "Roka II.",
+        "birim": "Demet",
+        "price": 1.75
+    }, {
+        "product_name": "Salata (Çengelköy) silor",
+        "birim": "Kilogram",
+        "price": 27.5
+    }, {
+        "product_name": "Salata(çengelköy II.)",
+        "birim": "Kilogram",
+        "price": 8.5
+    }, {
+        "product_name": "Salatalık I.",
+        "birim": "Kilogram",
+        "price": 12.0
+    }, {
+        "product_name": "Salatalık(İkinci)",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Sarımsak (Kuru)",
+        "birim": "Kilogram",
+        "price": 45.0
+    }, {
+        "product_name": "Sarımsak (Yeşil)",
+        "birim": "Kilogram",
+        "price": 6.5
+    }, {
+        "product_name": "Sarımsak(II.)",
+        "birim": "Kilogram",
+        "price": 12.5
+    }, {
+        "product_name": "Semizotu",
+        "birim": "Kilogram",
+        "price": 16.0
+    }, {
+        "product_name": "Soğan (Kırmızı Balık)",
+        "birim": "Kilogram",
+        "price": 14.5
+    }, {
+        "product_name": "Soğan (Taze)",
+        "birim": "Kilogram",
+        "price": 27.5
+    }, {
+        "product_name": "Soğan (Tekirdağ)",
+        "birim": "Kilogram",
+        "price": 10.5
+    }, {
+        "product_name": "Soğan Kuru",
+        "birim": "Kilogram",
+        "price": 10.0
+    }, {
+        "product_name": "Soğan Kuru II.",
+        "birim": "Kilogram",
+        "price": 6.0
+    }, {
+        "product_name": "Tereotu",
+        "birim": "Demet",
+        "price": 2.5
+    }, {
+        "product_name": "Turp (Japon)",
+        "birim": "Kilogram",
+        "price": 4.0
+    }, {
+        "product_name": "Turp (Kırmızı)",
+        "birim": "Kilogram",
+        "price": 3.5
+    }],
+
+    [
+        {"product_name": "Ananas","birim": "Adet","price": 32.5},
+    {
+        "product_name": "Avakado",
+        "birim": "Kilogram",
+        "price": 20.0
+    }, {
+        "product_name": "Ginger (Zencefil)",
+        "birim": "Kilogram",
+        "price": 65.0
+    }, {
+        "product_name": "Hindistan Cevizi",
+        "birim": "Adet",
+        "price": 25.0
+    }, {
+        "product_name": "Kivi",
+        "birim": "Kilogram",
+        "price": 82.5
+    }, {
+        "product_name": "Kuşkonmaz",
+        "birim": "Kilogram",
+        "price": 225.0
+    }, {
+        "product_name": "Limes",
+        "birim": "Kilogram",
+        "price": 95.0
+    }, {
+        "product_name": "Mango",
+        "birim": "Adet",
+        "price": 40.0
+    }, {
+        "product_name": "Muz (1. Kalite)",
+        "birim": "Kilogram",
+        "price": 38.5
+    }, {
+        "product_name": "Muz (2. Kalite)",
+        "birim": "Kilogram",
+        "price": 21.5
+    }, {
+        "product_name": "Papaya",
+        "birim": "Adet",
+        "price": 50.0
+    }, {
+        "product_name": "Pepino",
+        "birim": "Kilogram",
+        "price": 9.0
+    }, {
+        "product_name": "Pomelo",
+        "birim": "Adet",
+        "price": 30.0
+    }, {"product_name": "Pshalis","birim": "Kilogram","price": 340.0}] 
+]
