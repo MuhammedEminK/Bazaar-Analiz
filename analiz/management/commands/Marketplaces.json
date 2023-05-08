@@ -1,0 +1,1502 @@
+[{
+    "marketplace_name": "Arnavutköy Hadımköy Toki Pazartesi Pazarı",
+    "marketplace_addres": "Hadımköy Mahallesi, Arnavutköy, İstanbul/34555",
+    "lat": 41.183489,
+    "long": 28.611212,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Arnavutköy İslambey Mahallesi Pazartesi Pazarı\n",
+    "marketplace_addres": "İslambey Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.193408,
+    "long": 28.744909,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Arnavutköy Haraççı Pazartesi Pazarı",
+    "marketplace_addres": "Haraççı Mahallesi, Arnavutköy, İstanbul/34281",
+    "lat": 41.178491,
+    "long": 28.705449,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Arnavutköy İmrahor Mahallesi Çarşamba Pazarı",
+    "marketplace_addres": "İmrahor Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.216093,
+    "long": 28.746359,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Arnavutköy Bolluca Çarşamba Pazarı",
+    "marketplace_addres": "Hicret Mahallesi, Arnavutköy, İstanbul/34287",
+    "lat": 41.19762,
+    "long": 28.75342,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Arnavutköy Hadımköy Çarşamba Pazarı",
+    "marketplace_addres": "Hastane Mahallesi, Arnavutköy, İstanbul/34555",
+    "lat": 41.15798,
+    "long": 28.611161,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Arnavutköy Nene Hatun Mahallesi Çarşamba Pazarı",
+    "marketplace_addres": "Nenehatun Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.196886,
+    "long": 28.727434,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Arnavutköy Taşoluk Toki Perşembe Pazarı",
+    "marketplace_addres": "Adnan Menderes Mahallesi, Arnavutköy, İstanbul/34277",
+    "lat": 41.209054,
+    "long": 28.70337,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Arnavutköy Anadolu Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Anadolu Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.184557,
+    "long": 28.743348,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Arnavutköy Haraççı Cuma Pazarı",
+    "marketplace_addres": "Karlıbayır Mahallesi, Arnavutköy, İstanbul/34281",
+    "lat": 41.180063,
+    "long": 28.717035,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Arnavutköy Boğazköy Yunus Emre Mahallesi Cuma Pazarı",
+    "marketplace_addres": "Yunus Emre Mahallesi, Arnavutköy, İstanbul/34285",
+    "lat": 41.18222,
+    "long": 28.763081,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Arnavutköy Bolluca Hicret Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "Hicret Mahallesi, Arnavutköy, İstanbul/34287",
+    "lat": 41.200793,
+    "long": 28.761429,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Arnavutköy Hadımköy Cumartesi Pazarı",
+    "marketplace_addres": "Hastane Mahallesi, Arnavutköy, İstanbul/34555",
+    "lat": 41.155672,
+    "long": 28.622272,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Arnavutköy Yavuz Selim Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "Yavuz Selim Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.202569,
+    "long": 28.742215,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Arnavutköy Boğazköy Yunus Emre Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Yunus Emre Mahallesi, Arnavutköy, İstanbul/34285",
+    "lat": 41.186606,
+    "long": 28.762371,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Arnavutköy Hadımköy Ömerli Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Ömerli Mahallesi, Arnavutköy, İstanbul/34555",
+    "lat": 41.111142,
+    "long": 28.640109,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Arnavutköy Mustafa Kemal Paşa Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Mustafa Kemal Paşa Mahallesi, Arnavutköy, İstanbul/34275",
+    "lat": 41.186169,
+    "long": 28.737791,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Avcılar Firüzköy Pazartesi Pazarı",
+    "marketplace_addres": "Firuzköy Mahallesi, Avcılar, İstanbul/34325",
+    "lat": 41.012397,
+    "long": 28.708111,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Avcılar Üniversite Salı Pazarı",
+    "marketplace_addres": "Üniversite Mahallesi, Avcılar, İstanbul/34320",
+    "lat": 40.99365,
+    "long": 28.712745,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Avcılar Çarşamba Pazarı",
+    "marketplace_addres": "Merkez Mahallesi, Avcılar, İstanbul/34310",
+    "lat": 40.979498,
+    "long": 28.719217,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Avcılar Yeşilkent Perşembe Pazarı",
+    "marketplace_addres": "Yunus Emre Mahallesi, Esenyurt, İstanbul/34510",
+    "lat": 41.029767,
+    "long": 28.702033,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Avcılar Gümüşpala Perşembe Pazarı",
+    "marketplace_addres": "Gümüşpala Mahallesi, Avcılar, İstanbul/34320",
+    "lat": 40.983481,
+    "long": 28.737007,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Avcılar Tahtakale Perşembe Pazarı",
+    "marketplace_addres": "Tahtakale Mahallesi, Avcılar, İstanbul/34325",
+    "lat": 41.0597,
+    "long": 28.728997,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Avcılar Mustafa Kemal Paşa Cuma Pazarı",
+    "marketplace_addres": "Mustafa Kemalpaşa Mahallesi, Avcılar, İstanbul/34320",
+    "lat": 41.002483,
+    "long": 28.709766,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Avcılar Ambarlı Siteler Cumartesi Pazarı",
+    "marketplace_addres": "Ambarlı Mahallesi, Avcılar, İstanbul/34314",
+    "lat": 40.977839,
+    "long": 28.711037,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Avcılar Cihangir İgs Cumartesi Pazarı",
+    "marketplace_addres": "Cihangir Mahallesi, Avcılar, İstanbul/34310",
+    "lat": 40.987811,
+    "long": 28.714406,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Avcılar Firüzköy Cumartesi Pazarı",
+    "marketplace_addres": "Firuzköy Mahallesi, Avcılar, İstanbul/34325",
+    "lat": 41.019173,
+    "long": 28.704384,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Avcılar Denizköşkler Şükrü Bey Pazar Pazarı",
+    "marketplace_addres": "Denizköşkler Mahallesi, Avcılar, İstanbul/34315",
+    "lat": 40.976681,
+    "long": 28.733466,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Avcılar Yeşilkent Pazar Pazarı",
+    "marketplace_addres": "Yeşilkent Mahallesi, Avcılar, İstanbul/34325",
+    "lat": 41.029909,
+    "long": 28.702334,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Bağcılar Sancaktepe Pazartesi Pazarı",
+    "marketplace_addres": "Fevzi Çakmak Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.044505,
+    "long": 28.854379,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Bağcılar Kemalpaşa Pazartesi Pazarı",
+    "marketplace_addres": "Kemalpaşa Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.051208,
+    "long": 28.852473,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Bağcılar Evren Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "15 Temmuz Mahallesi, Bağcılar, İstanbul/34212",
+    "lat": 41.043265,
+    "long": 28.820964,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Bağcılar Merkez Salı Pazarı",
+    "marketplace_addres": "Merkez Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.0320374152302,
+    "long": 28.8633276993069,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bağcılar Yenimahalle Ateştuğla Salı Pazarı",
+    "marketplace_addres": "Yenimahalle Mahallesi, Bağcılar, İstanbul/34212",
+    "lat": 41.0435144394747,
+    "long": 28.8396154545748,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bağcılar Yüzyıl Salı Pazarı",
+    "marketplace_addres": "100. Yıl Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.0654024309096,
+    "long": 28.8544630944293,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bağcılar Hürriyet Çarşamba Pazarı",
+    "marketplace_addres": "Hürriyet Mahallesi, Bağcılar, İstanbul/34212",
+    "lat": 41.029076,
+    "long": 28.832753,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bağcılar Fevzi Çakmak Çarşamba Pazarı",
+    "marketplace_addres": "Fevzi Çakmak Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.044274,
+    "long": 28.853995,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bağcılar Kazım Karabekir Çarşamba Pazarı",
+    "marketplace_addres": "Kazım Karabekir Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.032021,
+    "long": 28.846966,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bağcılar Çınar Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Çınar Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.037,
+    "long": 28.866142,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Bağcılar Fatih Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Göztepe Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.055936,
+    "long": 28.844074,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Bağcılar Mahmutbey Cuma Pazarı",
+    "marketplace_addres": "Mahmutbey Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.048989,
+    "long": 28.826902,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bağcılar Demirkapı Cuma Pazarı",
+    "marketplace_addres": "Demirkapı Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.050986,
+    "long": 28.832512,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bağcılar Yıldıztepe Cuma Pazarı",
+    "marketplace_addres": "Yıldıztepe Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.029651,
+    "long": 28.855686,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bağcılar Evren Cumartesi Pazarı",
+    "marketplace_addres": "15 Temmuz Mahallesi, Bağcılar, İstanbul/34212",
+    "lat": 41.039428,
+    "long": 28.819173,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bağcılar Yüzyıl Cumartesi Pazarı",
+    "marketplace_addres": "100. Yıl Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.0670534235717,
+    "long": 28.8547141267546,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bağcılar Göztepe Cumartesi Pazarı",
+    "marketplace_addres": "Göztepe Mahallesi, Bağcılar, İstanbul/34218",
+    "lat": 41.057647,
+    "long": 28.834558,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bağcılar Barbaros Cumartesi Pazarı",
+    "marketplace_addres": "Barbaros Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.028837,
+    "long": 28.839994,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bağcılar Yavuzselim Cumartesi Pazarı",
+    "marketplace_addres": "Yavuz Selim Mahallesi, Bağcılar, İstanbul/34200",
+    "lat": 41.042412,
+    "long": 28.848385,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bağcılar Güneşli Pazar Pazarı",
+    "marketplace_addres": "Güneşli Mahallesi, Bağcılar, İstanbul/34212",
+    "lat": 41.038891,
+    "long": 28.83062,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Bahçelievler Kocasinan Pazartesi Pazarı",
+    "marketplace_addres": "Kocasinan Merkez Mahallesi, Bahçelievler, İstanbul/34188",
+    "lat": 41.019632,
+    "long": 28.838064,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Bahçelievler Hürriyet Salı Pazarı",
+    "marketplace_addres": "Şirinevler Mahallesi, Bahçelievler, İstanbul/34188",
+    "lat": 40.998269,
+    "long": 28.840719,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bahçelievler Çobançeşme Salı Pazarı",
+    "marketplace_addres": "Çobançeşme Mahallesi, Bahçelievler, İstanbul/34197",
+    "lat": 41.007003,
+    "long": 28.830234,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bahçelievler Siyavuşpaşa (Yayla) Çarşamba Pazarı",
+    "marketplace_addres": "Siyavuşpaşa Mahallesi, Bahçelievler, İstanbul/34180",
+    "lat": 41.001018,
+    "long": 28.855068,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bahçelievler Siyavuşpaşa Dere Perşembe Pazarı",
+    "marketplace_addres": "Şirinevler Mahallesi, Bahçelievler, İstanbul/34188",
+    "lat": 41.006202,
+    "long": 28.847505,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Bahçelievler Kocasinan Cuma Pazarı",
+    "marketplace_addres": "Kocasinan Merkez Mahallesi, Bahçelievler, İstanbul/34188",
+    "lat": 41.019529,
+    "long": 28.838423,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bahçelievler Zafer Mahallesi Cuma Pazarı",
+    "marketplace_addres": "Zafer Mahallesi, Bahçelievler, İstanbul/34197",
+    "lat": 41.000195,
+    "long": 28.835884,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bahçelievler Zafer Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Zafer Mahallesi, Bahçelievler, İstanbul/34197",
+    "lat": 41.012496,
+    "long": 28.835841,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Bahçelievler Şirinevler Pazar Pazarı",
+    "marketplace_addres": "Şirinevler Mahallesi, Bahçelievler, İstanbul/34188",
+    "lat": 41.002385,
+    "long": 28.847283,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Bakırköy Osmaniye Salı Pazarı",
+    "marketplace_addres": "Osmaniye Mahallesi, Bakırköy, İstanbul/34146",
+    "lat": 40.99062,
+    "long": 28.880686,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Bakırköy Yeşilköy Çarşamba Pazarı",
+    "marketplace_addres": "Yeşilköy Mahallesi, Bakırköy, İstanbul/34149",
+    "lat": 40.962831,
+    "long": 28.812904,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bakırköy Yenimahalle Perşembe Pazarı",
+    "marketplace_addres": "Sakızağacı Mahallesi, Bakırköy, İstanbul/34142",
+    "lat": 40.981113,
+    "long": 28.883596,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Bakırköy Çırpıcı Cumartesi Pazarı",
+    "marketplace_addres": "Osmaniye Mahallesi, Bakırköy, İstanbul/34146",
+    "lat": 40.9958,
+    "long": 28.87612,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bakırköy Şenlikköy Pazar Pazarı",
+    "marketplace_addres": "Şenlikköy Mahallesi, Bakırköy, İstanbul/34153",
+    "lat": 40.9797087216234,
+    "long": 28.7951977267568,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Bayrampaşa Bereç Pazartesi Pazarı",
+    "marketplace_addres": "Muratpaşa Mahallesi, Bayrampaşa, İstanbul/34040",
+    "lat": 41.050841,
+    "long": 28.906875,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Bayrampaşa Kocatepe Mega Center Çarşamba Pazarı",
+    "marketplace_addres": "Cevatpaşa Mahallesi, Bayrampaşa, İstanbul/34250",
+    "lat": 41.069946,
+    "long": 28.88047,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Bayrampaşa Altıntepsi Perşembe Pazarı",
+    "marketplace_addres": "Altıntepsi Mahallesi, Bayrampaşa, İstanbul/34035",
+    "lat": 41.038187,
+    "long": 28.906731,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Bayrampaşa Yıldırım Cuma Pazarı",
+    "marketplace_addres": "Yıldırım Mahallesi, Bayrampaşa, İstanbul/34045",
+    "lat": 41.0675042,
+    "long": 28.8941431,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Bayrampaşa Kocatepe Mega Center Cumartesi Pazarı",
+    "marketplace_addres": "Kocatepe Mahallesi, Bayrampaşa, İstanbul/34045",
+    "lat": 41.052142,
+    "long": 28.89279,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Bayrampaşa Altıntepsi Pazar Pazarı",
+    "marketplace_addres": "Altıntepsi Mahallesi, Bayrampaşa, İstanbul/34035",
+    "lat": 41.038229,
+    "long": 28.9067662,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Başakşehir Kayaşehir Pazartesi Pazarı",
+    "marketplace_addres": "Kayabaşı Mahallesi, Başakşehir, İstanbul/34494",
+    "lat": 41.104259,
+    "long": 28.758031,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Başakşehir Güvercintepe Pazartesi Pazarı",
+    "marketplace_addres": "Güvercintepe Mahallesi, Başakşehir, İstanbul/34494",
+    "lat": 41.085132,
+    "long": 28.751957,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Başakşehir Pazartürk Salı Pazarı",
+    "marketplace_addres": "Bahçeşehir 2. Kısım Mahallesi, Başakşehir, İstanbul/34488",
+    "lat": 41.079189,
+    "long": 28.679271,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Başakşehir Şahintepe Salı Pazarı",
+    "marketplace_addres": "Şahintepe Mahallesi, Başakşehir, İstanbul/34494",
+    "lat": 41.072205,
+    "long": 28.726989,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Başakşehir Güvercintepe Çarşamba Pazarı",
+    "marketplace_addres": "Güvercintepe Mahallesi, Başakşehir, İstanbul/34494",
+    "lat": 41.074095,
+    "long": 28.750048,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Başakşehir Perşembe Pazarı",
+    "marketplace_addres": "Başak Mahallesi, Başakşehir, İstanbul/34480",
+    "lat": 41.111259,
+    "long": 28.809204,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Başakşehir Ziya Gökalp Cuma Pazarı",
+    "marketplace_addres": "Ziya Gökalp Mahallesi, Başakşehir, İstanbul/34490",
+    "lat": 41.075042,
+    "long": 28.788043,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Başakşehir Kayaşehir Cuma Pazarı",
+    "marketplace_addres": "Kayabaşı Mahallesi, Başakşehir, İstanbul/34494",
+    "lat": 41.104921,
+    "long": 28.75925,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Beylikdüzü İhlas Marmara Salı Pazarı",
+    "marketplace_addres": "Marmara Mahallesi, Beylikdüzü, İstanbul/34524",
+    "lat": 40.982953,
+    "long": 28.673141,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Beylikdüzü Beylik Çarşamba Pazarı",
+    "marketplace_addres": "Adnan Kahveci Mahallesi, Beylikdüzü, İstanbul/34528",
+    "lat": 41.004465,
+    "long": 28.630779,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Beylikdüzü Yakuplu Perşembe Pazarı",
+    "marketplace_addres": "Yakuplu Mahallesi, Beylikdüzü, İstanbul/34524",
+    "lat": 40.999515,
+    "long": 28.672492,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Beylikdüzü Gürpınar Cuma Pazarı",
+    "marketplace_addres": "Gürpınar Mahallesi, Beylikdüzü, İstanbul/34528",
+    "lat": 40.993949,
+    "long": 28.606314,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Beylikdüzü Organik Cumartesi Pazarı",
+    "marketplace_addres": "Adnan Kahveci Mahallesi, Beylikdüzü, İstanbul/34528",
+    "lat": 41.004711,
+    "long": 28.630552,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Beylikdüzü Beylik Pazar Pazarı",
+    "marketplace_addres": "Adnan Kahveci Mahallesi, Beylikdüzü, İstanbul/34528",
+    "lat": 41.004465,
+    "long": 28.630779,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Beylikdüzü Yakuplu Pazar Pazarı",
+    "marketplace_addres": "Yakuplu Mahallesi, Beylikdüzü, İstanbul/34524",
+    "lat": 40.986877,
+    "long": 28.667759,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Beylikdüzü Kavaklı Pazar Pazarı",
+    "marketplace_addres": "Kavaklı Mahallesi, Beylikdüzü, İstanbul/34520",
+    "lat": 40.98106,
+    "long": 28.636768,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Beyoğlu Arabacılar Pazartesi Pazarı",
+    "marketplace_addres": "Keçeci Piri, Beyoğlu, İstanbul/34445",
+    "lat": 41.043133,
+    "long": 28.956155,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Beyoğlu Kulaksız Salı Pazarı",
+    "marketplace_addres": "Kadı Mehmet Efendi, Beyoğlu, İstanbul/34440",
+    "lat": 41.035908,
+    "long": 28.962945,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Beyoğlu Kalaycıbahçe Çarşamba Pazarı",
+    "marketplace_addres": "Fetihtepe, Beyoğlu, İstanbul/34445",
+    "lat": 41.047259,
+    "long": 28.954105,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Beyoğlu Piyalepaşa Perşembe Pazarı",
+    "marketplace_addres": "Mahmut Şevket Paşa Mahallesi, Şişli, İstanbul/34384",
+    "lat": 41.048269,
+    "long": 28.965012,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Beyoğlu Bademlik Perşembe Pazarı",
+    "marketplace_addres": "Sütlüce, Beyoğlu, İstanbul/34445",
+    "lat": 41.051971,
+    "long": 28.946578,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Beyoğlu Kasımpaşa Cuma Pazarı",
+    "marketplace_addres": "Küçük Piyale Mahallesi, Beyoğlu, İstanbul/34440",
+    "lat": 41.036705,
+    "long": 28.967862,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Beyoğlu Örnektepe Cumartesi Pazarı",
+    "marketplace_addres": "Örnektepe, Beyoğlu, İstanbul/34445",
+    "lat": 41.0544885362375,
+    "long": 28.9553992603895,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Beyoğlu Yenişehir Dolapdere Pazar Pazarı",
+    "marketplace_addres": "Bülbül, Beyoğlu, İstanbul/34435",
+    "lat": 41.0397357710774,
+    "long": 28.9785117979228,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Beyoğlu Çıksalın Pazar Pazarı",
+    "marketplace_addres": "Halıcıoğlu, Beyoğlu, İstanbul/34445",
+    "lat": 41.0485042753367,
+    "long": 28.9520104267589,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Beşiktaş 4.Levent Salı Pazarı",
+    "marketplace_addres": "Konaklar Mahallesi, Beşiktaş, İstanbul/34330",
+    "lat": 41.089195,
+    "long": 29.009413,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Beşiktaş Arnavutköy Salı Pazarı",
+    "marketplace_addres": "Arnavutköy Mahallesi, Beşiktaş, İstanbul/34345",
+    "lat": 41.070058,
+    "long": 29.040842,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Beşiktaş Ortaköy Çarşamba Pazarı",
+    "marketplace_addres": "Levazım Mahallesi, Beşiktaş, İstanbul/34340",
+    "lat": 41.057814,
+    "long": 29.02235,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Beşiktaş Ulus Perşembe Pazarı",
+    "marketplace_addres": "Levazım Mahallesi, Beşiktaş, İstanbul/34340",
+    "lat": 41.0578,
+    "long": 29.022543,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Beşiktaş Cumartesi Pazarı",
+    "marketplace_addres": "Türkali Mahallesi, Beşiktaş, İstanbul/34357",
+    "lat": 41.049585,
+    "long": 29.000989,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Büyükçekmece Tepecik Pazartesi Pazarı",
+    "marketplace_addres": "Ulus Mahallesi, Büyükçekmece, İstanbul/34537",
+    "lat": 41.02455,
+    "long": 28.546157,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Büyükçekmece Dizdariye Salı Pazarı",
+    "marketplace_addres": "Dizdariye Mahallesi, Büyükçekmece, İstanbul/34500",
+    "lat": 41.024749,
+    "long": 28.579649,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Büyükçekmece Güzelce Çarşamba Pazarı",
+    "marketplace_addres": "Güzelce Mahallesi, Büyükçekmece, İstanbul/34530",
+    "lat": 41.003896,
+    "long": 28.513695,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Büyükçekmece Muratçeşme Çarşamba Pazarı",
+    "marketplace_addres": "Murat Çesme Mahallesi, Büyükçekmece, İstanbul/34535",
+    "lat": 41.016632,
+    "long": 28.534043,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Büyükçekmece Türkoba Perşembe Pazarı",
+    "marketplace_addres": "Türkoba Mahallesi, Büyükçekmece, İstanbul/34537",
+    "lat": 41.031711,
+    "long": 28.525895,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Büyükçekmece Tepecik Perşembe Pazarı",
+    "marketplace_addres": "Ulus Mahallesi, Büyükçekmece, İstanbul/34537",
+    "lat": 41.035649,
+    "long": 28.550025,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Büyükçekmece Kumburgaz Cuma Pazarı",
+    "marketplace_addres": "Kamiloba Mahallesi, Büyükçekmece, İstanbul/34534",
+    "lat": 41.035273,
+    "long": 28.458343,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Büyükçekmece Ekinoba (Pazaroba) Cuma Pazarı",
+    "marketplace_addres": "Ekinoba Mahallesi, Büyükçekmece, İstanbul/34535",
+    "lat": 41.007289,
+    "long": 28.54091,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Büyükçekmece Fatih Kemerdere Cumartesi Pazarı",
+    "marketplace_addres": "Fatih Mahallesi, Büyükçekmece, İstanbul/34500",
+    "lat": 41.020237,
+    "long": 28.603721,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Büyükçekmece Mimarsinan Cumartesi Pazarı",
+    "marketplace_addres": "Mimarsinan Mahallesi, Büyükçekmece, İstanbul/34535",
+    "lat": 41.012489,
+    "long": 28.552515,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Büyükçekmece Çakmaklı Cumartesi Pazarı",
+    "marketplace_addres": "Çakmaklı Mahallesi, Büyükçekmece, İstanbul/34500",
+    "lat": 41.053349,
+    "long": 28.624815,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Büyükçekmece Celaliye Kamiloba Cumartesi Pazarı",
+    "marketplace_addres": "Celaliye Mahallesi, Büyükçekmece, İstanbul/34534",
+    "lat": 41.047962,
+    "long": 28.424692,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Çatalca Perşembe Pazarı",
+    "marketplace_addres": "Kaleiçi Mahallesi, Çatalca, İstanbul/34540",
+    "lat": 41.145736,
+    "long": 28.459563,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Esenler Kazım Karabekir Pazartesi Pazarı",
+    "marketplace_addres": "Kazım Karabekir Mahallesi, Esenler, İstanbul/34225",
+    "lat": 41.045972,
+    "long": 28.871585,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Esenler Havaalanı Mahallesi Salı Pazarı",
+    "marketplace_addres": "Havaalanı Mahallesi, Esenler, İstanbul/34230",
+    "lat": 41.054464,
+    "long": 28.865033,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Esenler M.Sinan Mahallesi (Fevzi Çakmak) Salı Pazarı",
+    "marketplace_addres": "Mimar Sinan Mahallesi, Esenler, İstanbul/34220",
+    "lat": 41.036828,
+    "long": 28.886747,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Esenler Nine Hatun (Üçyüzlü) Çarşamba Pazarı",
+    "marketplace_addres": "Nine Hatun Mahallesi, Esenler, İstanbul/34220",
+    "lat": 41.037502,
+    "long": 28.876392,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Esenler Kemer (Fevzi Çakmak) Çarşamba Pazarı",
+    "marketplace_addres": "Kemer Mahallesi, Esenler, İstanbul/34230",
+    "lat": 41.049557,
+    "long": 28.878563,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Esenler Menderes Perşembe Pazarı",
+    "marketplace_addres": "Menderes Mahallesi, Esenler, İstanbul/34225",
+    "lat": 41.04264,
+    "long": 28.880005,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Esenler Turgut Reis Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Turgut Reis Mahallesi, Esenler, İstanbul/34235",
+    "lat": 41.061522,
+    "long": 28.861307,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Esenler Fatih Mahallesi (Üçyüzlü) Cuma Pazarı",
+    "marketplace_addres": "Fatih Mahallesi, Esenler, İstanbul/34225",
+    "lat": 41.0437501,
+    "long": 28.8684733,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Esenler Tuna (Karabayır) Cuma Pazarı",
+    "marketplace_addres": "Tuna Mahallesi, Esenler, İstanbul/34225",
+    "lat": 41.0496446,
+    "long": 28.8599569,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Esenler Namık Kemal Cumartesi Pazarı",
+    "marketplace_addres": "Namık Kemal Mahallesi, Esenler, İstanbul/34220",
+    "lat": 41.0291572554449,
+    "long": 28.8951573555942,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Esenler Oruç Reis Pazar Pazarı",
+    "marketplace_addres": "Oruçreis Mahallesi, Esenler, İstanbul/34235",
+    "lat": 41.056797,
+    "long": 28.857586,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Esenler Havaalanı Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Birlik Mahallesi, Esenler, İstanbul/34230",
+    "lat": 41.053364,
+    "long": 28.87101,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Esenyurt Bağlarçeşme Salı Pazarı",
+    "marketplace_addres": "Bağlarçeşme Mahallesi, Esenyurt, İstanbul/34517",
+    "lat": 41.033903,
+    "long": 28.672704,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Eyüp Rami Pazartesi Pazarı",
+    "marketplace_addres": "Rami Yeni Mahallesi, Eyüpsultan, İstanbul/34055",
+    "lat": 41.046066,
+    "long": 28.916546,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Eyüp Yeşilpınar Pazartesi Pazarı",
+    "marketplace_addres": "Yeşilpınar Mahallesi, Eyüpsultan, İstanbul/34065",
+    "lat": 41.075115,
+    "long": 28.918595,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Eyüp Kemerburgaz Salı Pazarı",
+    "marketplace_addres": "Mimar Sinan Mahallesi, Eyüpsultan, İstanbul/34075",
+    "lat": 41.158745,
+    "long": 28.916126,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Eyüp Silahtar Salı Pazarı",
+    "marketplace_addres": "Sakarya Mahallesi, Eyüpsultan, İstanbul/34050",
+    "lat": 41.064149,
+    "long": 28.941924,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Eyüp Topçular Salı Pazarı",
+    "marketplace_addres": "Düğmeciler Mahallesi, Eyüpsultan, İstanbul/34055",
+    "lat": 41.043142,
+    "long": 28.923873,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Eyüp Karadolap Çarşamba Pazarı",
+    "marketplace_addres": "Karadolap Mahallesi, Eyüpsultan, İstanbul/34065",
+    "lat": 41.073696,
+    "long": 28.932269,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Eyüp Rami Perşembe Pazarı",
+    "marketplace_addres": "Rami Yeni Mahallesi, Eyüpsultan, İstanbul/34055",
+    "lat": 41.045945,
+    "long": 28.916449,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Eyüp Göktürk Perşembe Pazarı",
+    "marketplace_addres": "Göktürk Merkez Mahallesi, Eyüpsultan, İstanbul/34077",
+    "lat": 41.182661,
+    "long": 28.891791,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Eyüp Esentepe Perşembe Pazarı",
+    "marketplace_addres": "Esentepe Mahallesi, Eyüpsultan, İstanbul/34065",
+    "lat": 41.066598,
+    "long": 28.935366,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Eyüp Otakçılar Perşembe Pazarı",
+    "marketplace_addres": "Nişancı Mahallesi, Eyüpsultan, İstanbul/34050",
+    "lat": 41.038904,
+    "long": 28.929235,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Eyüp İslambey Cuma Pazarı",
+    "marketplace_addres": "İslambey Mahallesi, Eyüpsultan, İstanbul/34050",
+    "lat": 41.050755,
+    "long": 28.928127,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Eyüp Parseller (Çırçır) Cuma Pazarı",
+    "marketplace_addres": "Çırçır Mahallesi, Eyüpsultan, İstanbul/34070",
+    "lat": 41.08036,
+    "long": 28.935565,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Eyüp Yeşilpınar Cumartesi Pazarı",
+    "marketplace_addres": "Yeşilpınar Mahallesi, Eyüpsultan, İstanbul/34065",
+    "lat": 41.080719,
+    "long": 28.917883,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Eyüp Güzeltepe Cumartesi Pazarı",
+    "marketplace_addres": "Güzeltepe Mahallesi, Eyüpsultan, İstanbul/34060",
+    "lat": 41.073617525539,
+    "long": 28.9561192692692,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Eyüp Alibeyköy Pazar Pazarı",
+    "marketplace_addres": "Güzeltepe Mahallesi, Eyüpsultan, İstanbul/34060",
+    "lat": 41.0750829734953,
+    "long": 28.9507856825809,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Eyüp Göktürk Pazar Pazarı",
+    "marketplace_addres": "Göktürk Merkez Mahallesi, Eyüpsultan, İstanbul/34077",
+    "lat": 41.1832952325668,
+    "long": 28.8915919979273,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Eyüp Akşemsettin Pazar Pazarı",
+    "marketplace_addres": "Akşemsettin Mahallesi, Eyüpsultan, İstanbul/34070",
+    "lat": 41.0869400115037,
+    "long": 28.9237324844318,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Fatih Karagümrük Pazartesi Pazarı",
+    "marketplace_addres": "Hırka-i Şerif Mahallesi, Fatih, İstanbul/34091",
+    "lat": 41.025468,
+    "long": 28.939318,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Fatih Unkapanı Pazartesi Pazarı",
+    "marketplace_addres": "Cibali Mahallesi, Fatih, İstanbul/34083",
+    "lat": 41.023965,
+    "long": 28.956589,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Fatih Balat Salı Pazarı",
+    "marketplace_addres": "Ayvansaray Mahallesi, Fatih, İstanbul/34087",
+    "lat": 41.036017,
+    "long": 28.945256,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Fatih Şehremini Salı Pazarı",
+    "marketplace_addres": "Şehremini Mahallesi, Fatih, İstanbul/34104",
+    "lat": 41.012236,
+    "long": 28.931332,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Fatih Çarşamba Pazarı",
+    "marketplace_addres": "Ali Kuşçu Mahallesi, Fatih, İstanbul/34083",
+    "lat": 41.0183158,
+    "long": 28.9516731,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Fatih Nişanca Perşembe Pazarı",
+    "marketplace_addres": "Nişanca Mahallesi, Fatih, İstanbul/34130",
+    "lat": 41.005396,
+    "long": 28.958717,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Fatih Küçük Ayasofya Çarşamba Pazarı",
+    "marketplace_addres": "Küçük Ayasofya Mahallesi, Fatih, İstanbul/34122",
+    "lat": 41.0039356,
+    "long": 28.9746722,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Fatih Ağaçkakan Perşembe Pazarı",
+    "marketplace_addres": "Silivrikapı Mahallesi, Fatih, İstanbul/34107",
+    "lat": 41.003687,
+    "long": 28.926611,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Fatih Fındıkzade Cuma Pazarı",
+    "marketplace_addres": "Haseki Sultan Mahallesi, Fatih, İstanbul/34096",
+    "lat": 41.008977,
+    "long": 28.9377436,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Fatih Kocamustafapaşa Cumartesi Pazarı",
+    "marketplace_addres": "Koca Mustafapaşa Mahallesi, Fatih, İstanbul/34098",
+    "lat": 41.003575,
+    "long": 28.93119,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Yenimahalle (Paşa Mahallesi) Pazartesi Pazarı",
+    "marketplace_addres": "Yeni Mahalle Mahallesi, Gaziosmanpaşa, İstanbul/34250",
+    "lat": 41.07951,
+    "long": 28.898922,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Bağlarbaşı Çarşamba Pazarı",
+    "marketplace_addres": "Bağlarbaşı Mahallesi, Gaziosmanpaşa, İstanbul/34245",
+    "lat": 41.061651,
+    "long": 28.914743,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Barboros Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Barbaros Hayrettin Paşa Mahallesi, Gaziosmanpaşa, İstanbul/34250",
+    "lat": 41.075412,
+    "long": 28.890459,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Kazım Karabekir Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Kazım Karabekir Mahallesi, Gaziosmanpaşa, İstanbul/34255",
+    "lat": 41.082958,
+    "long": 28.911333,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Karlıtepe (Yaylabaşı) Cuma Pazarı",
+    "marketplace_addres": "Karlıtepe Mahallesi, Gaziosmanpaşa, İstanbul/34240",
+    "lat": 41.061455,
+    "long": 28.928045,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Küçükköy Cumartesi Pazarı",
+    "marketplace_addres": "Şemsipaşa Mahallesi, Gaziosmanpaşa, İstanbul/34250",
+    "lat": 41.070013,
+    "long": 28.905209,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Karadeniz Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Karadeniz Mahallesi, Gaziosmanpaşa, İstanbul/34250",
+    "lat": 41.079497,
+    "long": 28.880809,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Gaziosmanpaşa Dörtyol Pazar Pazarı",
+    "marketplace_addres": "Karlıtepe Mahallesi, Gaziosmanpaşa, İstanbul/34240",
+    "lat": 41.057995,
+    "long": 28.92772,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Güngören Gençosman Pazartesi Pazarı",
+    "marketplace_addres": "Gençosman Mahallesi, Güngören, İstanbul/34165",
+    "lat": 41.031394,
+    "long": 28.874127,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Güngören Camlıkahve (Mareşal Çakmak) Pazartesi Pazarı",
+    "marketplace_addres": "Akıncılar Mahallesi, Güngören, İstanbul/34160",
+    "lat": 41.015649,
+    "long": 28.870351,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Güngören Gençosman Salı Pazarı",
+    "marketplace_addres": "Gençosman Mahallesi, Güngören, İstanbul/34165",
+    "lat": 41.031713,
+    "long": 28.879419,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Güngören Haznedar Perşembe Pazarı",
+    "marketplace_addres": "Haznedar Mahallesi, Güngören, İstanbul/34160",
+    "lat": 41.013035,
+    "long": 28.86928,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Güngören Merkez Cuma Pazarı",
+    "marketplace_addres": "Merkez Mahallesi, Güngören, İstanbul/34164",
+    "lat": 41.021646,
+    "long": 28.872769,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Kağıthane Gürsel Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "Gürsel Mahallesi, Kâğıthane, İstanbul/34400",
+    "lat": 41.069447,
+    "long": 28.974923,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Kağıthane Çeliktepe Pazartesi Pazarı",
+    "marketplace_addres": "Çeliktepe Mahallesi, Kâğıthane, İstanbul/34413",
+    "lat": 41.083454,
+    "long": 29.004851,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Kağıthane Hamidiye Pazartesi Pazarı",
+    "marketplace_addres": "Hamidiye Mahallesi, Kâğıthane, İstanbul/34408",
+    "lat": 41.094424,
+    "long": 28.970923,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Kağıthane Şirintepe Salı Pazarı",
+    "marketplace_addres": "Şirintepe Mahallesi, Kâğıthane, İstanbul/34415",
+    "lat": 41.089801,
+    "long": 28.991299,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Kağıthane Çağlayan Çarşamba Pazarı",
+    "marketplace_addres": "Çağlayan Mahallesi, Kâğıthane, İstanbul/34403",
+    "lat": 41.077818,
+    "long": 28.978424,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Kağıthane Nurtepe Çarşamba Pazarı",
+    "marketplace_addres": "Nurtepe Mahallesi, Kâğıthane, İstanbul/34406",
+    "lat": 41.076176,
+    "long": 28.961728,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Kağıthane Sanayi Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "Yeşilce Mahallesi, Kâğıthane, İstanbul/34418",
+    "lat": 41.094142,
+    "long": 29.001684,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Kağıthane Gazhane Cuma Pazarı",
+    "marketplace_addres": "Talatpaşa Mahallesi, Kâğıthane, İstanbul/34400",
+    "lat": 41.062021,
+    "long": 28.961989,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Kağıthane Havuzlar Cuma Pazarı",
+    "marketplace_addres": "Merkez Mahallesi, Kâğıthane, İstanbul/34406",
+    "lat": 41.088577,
+    "long": 28.968118,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Kağıthane Gültepe Cuma Pazarı",
+    "marketplace_addres": "Telsizler Mahallesi, Kâğıthane, İstanbul/34410",
+    "lat": 41.07931,
+    "long": 28.998142,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Kağıthane Çağlayan Dere Cumartesi Pazarı",
+    "marketplace_addres": "Çağlayan Mahallesi, Kâğıthane, İstanbul/34403",
+    "lat": 41.0779647213525,
+    "long": 28.9870794901488,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Kağıthane Seyrantepe Pazar Pazarı",
+    "marketplace_addres": "Seyrantepe Mahallesi, Kâğıthane, İstanbul/34418",
+    "lat": 41.0986154225825,
+    "long": 28.9889468979247,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Kağıthane Aslangazi (Talatpaşa) Pazar Pazarı",
+    "marketplace_addres": "Talatpaşa Mahallesi, Kâğıthane, İstanbul/34400",
+    "lat": 41.0661249253373,
+    "long": 28.9647432698295,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Kağıthane Merkez Pazar Pazarı",
+    "marketplace_addres": "Merkez Mahallesi, Kâğıthane, İstanbul/34406",
+    "lat": 41.0801561393124,
+    "long": 28.9693964856905,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Kağıthane Yahyakemal Pazar Pazarı",
+    "marketplace_addres": "Yahya Kemal Mahallesi, Kâğıthane, İstanbul/34410",
+    "lat": 41.083084079293,
+    "long": 28.9890414046743,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Küçükçekmece Bezirganbahçe Pazartesi Pazarı",
+    "marketplace_addres": "İstasyon Mahallesi, Küçükçekmece, İstanbul/34303",
+    "lat": 41.030746,
+    "long": 28.773061,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Küçükçekmece Kanarya Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "Kanarya Mahallesi, Küçükçekmece, İstanbul/34290",
+    "lat": 41.00618,
+    "long": 28.779646,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Küçükçekmece Söğütlüçeşme Pazartesi Pazarı",
+    "marketplace_addres": "Kanarya Mahallesi, Küçükçekmece, İstanbul/34290",
+    "lat": 41.018134,
+    "long": 28.782456,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Küçükçekmece İnönü Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "İnönü Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.024445,
+    "long": 28.797066,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Küçükçekmece İkitelli (Atatürk Mahallesi) Salı Pazarı",
+    "marketplace_addres": "Atatürk Mahallesi, Küçükçekmece, İstanbul/34307",
+    "lat": 41.049421,
+    "long": 28.803717,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Küçükçekmece Yeşilova Salı Pazarı",
+    "marketplace_addres": "Yeşilova Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 40.993775,
+    "long": 28.78459,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Küçükçekmece Tevfikbey Çarşamba Pazarı",
+    "marketplace_addres": "Tevfikbey Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.00973,
+    "long": 28.800303,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Küçükçekmece Halkalı Çarşamba Pazarı",
+    "marketplace_addres": "Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul/34303",
+    "lat": 41.040069,
+    "long": 28.803711,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Küçükçekmece Yarımburgaz Çarşamba Pazarı",
+    "marketplace_addres": "Yarımburgaz Mahallesi, Küçükçekmece, İstanbul/34303",
+    "lat": 41.053721,
+    "long": 28.754942,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Küçükçekmece Gültepe (Sultanmurat) Perşembe Pazarı",
+    "marketplace_addres": "Sultan Murat Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.006075,
+    "long": 28.787018,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Küçükçekmece İkitelli (Atatürk Mahallesi) Perşembe Pazarı",
+    "marketplace_addres": "Atatürk Mahallesi, Küçükçekmece, İstanbul/34307",
+    "lat": 41.052783,
+    "long": 28.797455,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Küçükçekmece Kanarya Perşembe Pazarı",
+    "marketplace_addres": "Kanarya Mahallesi, Küçükçekmece, İstanbul/34290",
+    "lat": 41.013825,
+    "long": 28.779779,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Küçükçekmece Çamlıkaltı (Halkalı) Perşembe Pazarı",
+    "marketplace_addres": "Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul/34303",
+    "lat": 41.03057,
+    "long": 28.791824,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Küçükçekmece Fatih Mahallesi Cuma Pazarı",
+    "marketplace_addres": "Fatih Mahallesi, Küçükçekmece, İstanbul/34290",
+    "lat": 40.993837,
+    "long": 28.767222,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Küçükçekmece Kartaltepe Cuma Pazarı",
+    "marketplace_addres": "Kartaltepe Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.002487,
+    "long": 28.804367,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Küçükçekmece Mehmet Akif Cuma Pazarı",
+    "marketplace_addres": "Mehmet Akif Mahallesi, Küçükçekmece, İstanbul/34307",
+    "lat": 41.054574,
+    "long": 28.805795,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Küçükçekmece Halkalı Cumartesi Pazarı",
+    "marketplace_addres": "Halkalı Merkez Mahallesi, Küçükçekmece, İstanbul/34303",
+    "lat": 41.033101,
+    "long": 28.801246,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Küçükçekmece Sultanmurat (Fevzi Çakmak) Cumartesi Pazarı",
+    "marketplace_addres": "Fevzi Çakmak Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.00771,
+    "long": 28.792316,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Küçükçekmece İnönü Cumartesi Pazarı",
+    "marketplace_addres": "İnönü Mahallesi, Küçükçekmece, İstanbul/34295",
+    "lat": 41.01481,
+    "long": 28.802834,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Küçükçekmece Organik Pazar Pazarı",
+    "marketplace_addres": "Atakent Mahallesi, Küçükçekmece, İstanbul/34307",
+    "lat": 41.054153,
+    "long": 28.791695,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Küçükçekmece Atatürk Pazar Pazarı",
+    "marketplace_addres": "Atatürk Mahallesi, Küçükçekmece, İstanbul/34307",
+    "lat": 41.058568,
+    "long": 28.795978,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Küçükçekmece Yenimahalle (Tepeüstü) Pazar Pazarı",
+    "marketplace_addres": "Yeni Mahalle Mahallesi, Küçükçekmece, İstanbul/34290",
+    "lat": 40.991772,
+    "long": 28.776505,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Sarıyer Demirciköy Pazartesi Pazarı",
+    "marketplace_addres": "Demirciköy Mahallesi, Sarıyer, İstanbul/34450",
+    "lat": 41.235515,
+    "long": 29.055959,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Sarıyer Reşitpaşa Salı Pazarı",
+    "marketplace_addres": "Reşitpaşa Mahallesi, Sarıyer, İstanbul/34467",
+    "lat": 41.108085,
+    "long": 29.042212,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Sarıyer Zekeriyaköy Salı Pazarı",
+    "marketplace_addres": "Zekeriyaköy Mahallesi, Sarıyer, İstanbul/34450",
+    "lat": 41.196167,
+    "long": 29.029177,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Sarıyer Kozdere Ptt Evleri Salı Pazarı",
+    "marketplace_addres": "PTT Evleri Mahallesi, Sarıyer, İstanbul/34453",
+    "lat": 41.157447,
+    "long": 29.021816,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Sarıyer Bahçeköy Kemer Salı Pazarı",
+    "marketplace_addres": "Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul/34473",
+    "lat": 41.167737,
+    "long": 28.98927,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Sarıyer Merkez Çarşamba Pazarı",
+    "marketplace_addres": "Maden Mahallesi, Sarıyer, İstanbul/34450",
+    "lat": 41.17412,
+    "long": 29.05396,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Sarıyer Bahçeköy Çarşamba Pazarı",
+    "marketplace_addres": "Bahçeköy Merkez Mahallesi, Sarıyer, İstanbul/34473",
+    "lat": 41.18092,
+    "long": 28.990484,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Sarıyer Ayazağa Çarşamba Pazarı",
+    "marketplace_addres": "Maslak Mahallesi, Sarıyer, İstanbul/34485",
+    "lat": 41.115125,
+    "long": 28.999389,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Sarıyer Koru Perşembe Pazarı",
+    "marketplace_addres": "İstinye Mahallesi, Sarıyer, İstanbul/34460",
+    "lat": 41.112118,
+    "long": 29.049403,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Sarıyer Ömürtepe Perşembe Pazarı",
+    "marketplace_addres": "Cumhuriyet Mahallesi, Sarıyer, İstanbul/34457",
+    "lat": 41.144463,
+    "long": 29.04395,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Sarıyer Yeniköy Cuma Pazarı",
+    "marketplace_addres": "Yeniköy Mahallesi, Sarıyer, İstanbul/34464",
+    "lat": 41.120301,
+    "long": 29.067941,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Sarıyer Çayırbaşı Cuma Pazarı",
+    "marketplace_addres": "Çayırbaşı Mahallesi, Sarıyer, İstanbul/34453",
+    "lat": 41.156578,
+    "long": 29.030947,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Sarıyer Kilyos Cuma Pazarı",
+    "marketplace_addres": "Kumköy (Kilyos) Mahallesi, Sarıyer, İstanbul/34450",
+    "lat": 41.245711,
+    "long": 29.036421,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Sarıyer İstinye Dereiçi Cumartesi Pazarı",
+    "marketplace_addres": "İstinye Mahallesi, Sarıyer, İstanbul/34460",
+    "lat": 41.1238550422404,
+    "long": 29.0413021555971,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sarıyer Rumeli Hisarüstü Cumartesi Pazarı",
+    "marketplace_addres": "Rumelihisarı Mahallesi, Sarıyer, İstanbul/34470",
+    "lat": 41.0869054332069,
+    "long": 29.0501132402527,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sarıyer FSM Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul/34470",
+    "lat": 41.0944569475159,
+    "long": 29.0358962979246,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Silivri Pazartesi Pazarı",
+    "marketplace_addres": "Alibey Mahallesi, Silivri, İstanbul/34570",
+    "lat": 41.0706,
+    "long": 28.25349,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Silivri Gümüşyaka Çarşamba Pazarı",
+    "marketplace_addres": "Gümüşyaka Mahallesi, Silivri, İstanbul/34588",
+    "lat": 41.047957,
+    "long": 28.038043,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Silivri Değirmenköy Çarşamba Pazarı",
+    "marketplace_addres": "Fevzipaşa Mahallesi, Silivri, İstanbul/34586",
+    "lat": 41.099418,
+    "long": 28.009394,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Silivri Perşembe Pazarı",
+    "marketplace_addres": "Yeni Mahalle, Silivri, İstanbul/34570",
+    "lat": 41.081716,
+    "long": 28.256218,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Silivri Merkez (Alipaşa Caddesi) Cuma Pazarı",
+    "marketplace_addres": "Mimar Sinan Mahallesi, Silivri, İstanbul/34570",
+    "lat": 41.0852,
+    "long": 28.240384,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Silivri Kavaklı Cuma Pazarı",
+    "marketplace_addres": "Hürriyet Mahallesi, Silivri, İstanbul/34596",
+    "lat": 41.092932,
+    "long": 28.333921,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Silivri Selimpaşa Pazar Pazarı",
+    "marketplace_addres": "Selimpaşa Mahallesi, Silivri, İstanbul/34590",
+    "lat": 41.0560996261131,
+    "long": 28.3656801245945,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Sultangazi Cebeci Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "Cebeci Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.111807,
+    "long": 28.860077,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Sultangazi Habipler Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "Eski Habipler Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.132907,
+    "long": 28.831658,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Sultangazi Gazi Mahallesi Salı Pazarı",
+    "marketplace_addres": "Gazi Mahallesi, Sultangazi, İstanbul/34260",
+    "lat": 41.102795,
+    "long": 28.894167,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Sultangazi Uğurmumcu Çarşamba Pazarı",
+    "marketplace_addres": "50. Yıl Mahallesi, Sultangazi, İstanbul/34265",
+    "lat": 41.09456,
+    "long": 28.86983,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Sultangazi Gazi Mahallesi Perşembe Pazarı",
+    "marketplace_addres": "75. Yıl Mahallesi, Sultangazi, İstanbul/34260",
+    "lat": 41.099502,
+    "long": 28.900026,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Sultangazi Esentepe Perşembe Pazarı",
+    "marketplace_addres": "Esentepe Mahallesi, Sultangazi, İstanbul/34265",
+    "lat": 41.099533,
+    "long": 28.879393,
+    "day": "Perşembe"
+}, {
+    "marketplace_name": "Sultangazi Cebeci Mahallesi Cuma Pazarı",
+    "marketplace_addres": "Cebeci Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.110618,
+    "long": 28.869586,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Sultangazi Cumhuriyet Mahallesi Cuma Pazarı",
+    "marketplace_addres": "Cumhuriyet Mahallesi, Sultangazi, İstanbul/34265",
+    "lat": 41.088689,
+    "long": 28.880843,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Sultangazi Yayla Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "Yayla Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.1488934744997,
+    "long": 28.8534052114187,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sultangazi 50. Yıl Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "50. Yıl Mahallesi, Sultangazi, İstanbul/34265",
+    "lat": 41.0905314943539,
+    "long": 28.8741524267603,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sultangazi Malkoçoğlu Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "Malkoçoğlu Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.1173217098791,
+    "long": 28.849094855597,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sultangazi Gazi Mahallesi Cumartesi Pazarı ",
+    "marketplace_addres": "Yunus Emre Mahallesi, Sultangazi, İstanbul/34260",
+    "lat": 41.1016572915469,
+    "long": 28.8919513690888,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Sultangazi İsmetpaşa Pazar Pazarı",
+    "marketplace_addres": "İsmetpaşa Mahallesi, Sultangazi, İstanbul/34270",
+    "lat": 41.112621,
+    "long": 28.854319,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Sultangazi Zübeydehanım Pazar Pazarı",
+    "marketplace_addres": "Zübeyde Hanım Mahallesi, Sultangazi, İstanbul/34260",
+    "lat": 41.098637,
+    "long": 28.904421,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Şişli Okmeydanı Salı Pazarı",
+    "marketplace_addres": "Halil Rıfat Paşa Mahallesi, Şişli, İstanbul/34384",
+    "lat": 41.057907,
+    "long": 28.967952,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Şişli Fulya Çarşamba",
+    "marketplace_addres": "19 Mayıs Mahallesi, Şişli, İstanbul/34363",
+    "lat": 41.059146,
+    "long": 28.992222,
+    "day": "Fulya"
+}, {
+    "marketplace_name": "Şişli Cinderesi Çarşamba Pazarı",
+    "marketplace_addres": "Yayla Mahallesi, Şişli, İstanbul/34377",
+    "lat": 41.046508,
+    "long": 28.974642,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Şişli Halide Edip Cumartesi Pazarı",
+    "marketplace_addres": "Halide Edip Adıvar Mahallesi, Şişli, İstanbul/34384",
+    "lat": 41.0622076248957,
+    "long": 28.976663811416,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Şişli Mecidiyeköy Pazar Pazarı",
+    "marketplace_addres": "Gülbahar Mahallesi, Şişli, İstanbul/34394",
+    "lat": 41.067619,
+    "long": 29.003167,
+    "day": "Pazar"
+}, {
+    "marketplace_name": "Zeytinburnu Telsiz Mahallesi Pazartesi Pazarı",
+    "marketplace_addres": "Telsiz Mahallesi, Zeytinburnu, İstanbul/34020",
+    "lat": 40.999375,
+    "long": 28.913475,
+    "day": "Pazartesi"
+}, {
+    "marketplace_name": "Zeytinburnu Gökalp Mahallesi Salı Pazarı",
+    "marketplace_addres": "Gökalp Mahallesi, Zeytinburnu, İstanbul/34020",
+    "lat": 40.992234,
+    "long": 28.908331,
+    "day": "Salı"
+}, {
+    "marketplace_name": "Zeytinburnu Veliefendi Çarşamba Pazarı",
+    "marketplace_addres": "Veliefendi Mahallesi, Zeytinburnu, İstanbul/34025",
+    "lat": 40.997295,
+    "long": 28.900837,
+    "day": "Çarşamba"
+}, {
+    "marketplace_name": "Zeytinburnu Seyitnizam Cuma Pazarı",
+    "marketplace_addres": "Seyitnizam Mahallesi, Zeytinburnu, İstanbul/34015",
+    "lat": 41.0069569,
+    "long": 28.9071415,
+    "day": "Cuma"
+}, {
+    "marketplace_name": "Zeytinburnu Merkezefendi Mahallesi Cumartesi Pazarı",
+    "marketplace_addres": "Merkezefendi Mahallesi, Zeytinburnu, İstanbul/34015",
+    "lat": 41.011303,
+    "long": 28.911855,
+    "day": "Cumartesi"
+}, {
+    "marketplace_name": "Zeytinburnu Sümer Mahallesi Pazar Pazarı",
+    "marketplace_addres": "Sümer Mahallesi, Zeytinburnu, İstanbul/34025",
+    "lat": 40.988304,
+    "long": 28.897966,
+    "day": "Pazar"
+}]
+
